@@ -1,4 +1,14 @@
-## Hi there 👋
+## MacSy Models
+
+Is an umbrella organization to centralized, organize, share models used by [MacSyFinder](https://github.com/gem-pasteur/macsyfinder).
+The models in macsy-models can easly managed with the macsydata tool.
+
+If you are a macsyfinder modeler, you are encourage to share your models through macsy-models (see [Contribution guidelines](../CONTRIBUTING.md)).
+
+For more details on how to create package of data model for macsyfinder, see [macsyfinder documentation](https://macsyfinder.readthedocs.io/en/latest/modeler_guide/index.html)
+
+If you already have package taht you want to share with the MacSYFinder community ask for a repository by openning a new issue.
+
 
 <!--
 
