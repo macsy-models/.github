@@ -7,7 +7,7 @@ If you are a macsyfinder modeler, you are encourage to share your models through
 
 For more details on how to create package of data model for macsyfinder, see [macsyfinder documentation](https://macsyfinder.readthedocs.io/en/latest/modeler_guide/index.html)
 
-If you already have package taht you want to share with the MacSYFinder community ask for a repository by [openning a new issue](https://github.com/macsy-models/.github/issues/new?assignees=bneron%2C+saphia&labels=ask+for+new+repository&template=ask-for-new-repos.md&title=%5BNew+Repos%5D).
+If you already have package that you want to share with the MacSYFinder community ask for a repository by [openning a new issue](https://github.com/macsy-models/.github/issues/new?assignees=bneron%2C+saphia&labels=ask+for+new+repository&template=ask-for-new-repos.md&title=%5BNew+Repos%5D).
 
 
 <!--
