@@ -1,3 +1,5 @@
+
+![macsy-models banner](./logo_macsymodels.png "MacSy Models")
 ## MacSy Models
 
 Is an umbrella organization to centralized, organize, share models used by [MacSyFinder](https://github.com/gem-pasteur/macsyfinder).
