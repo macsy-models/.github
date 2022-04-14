@@ -2,14 +2,14 @@
 ![macsy-models banner](https://github.com/macsy-models/.github/blob/main/profile/logo_macsymodels.png "MacSy Models")
 ## MacSy Models
 
-Is an umbrella organization to centralized, organize, share models used by [MacSyFinder](https://github.com/gem-pasteur/macsyfinder).
-The models in macsy-models can easly managed with the macsydata tool.
+Is an umbrella organization to centralize, organize, share models for [MacSyFinder](https://github.com/gem-pasteur/macsyfinder).
+The models in macsy-models can easly managed using the macsydata tool.
 
-If you are a macsyfinder modeler, you are encourage to share your models through macsy-models (see [Contribution guidelines](../CONTRIBUTING.md)).
+If you are a macsyfinder modeler, you are encouraged to share your models through macsy-models (see [Contribution guidelines](../CONTRIBUTING.md)). This will ensure an easy and broad distribution of your models for MacSyFinder! 
 
-For more details on how to create package of data model for macsyfinder, see [macsyfinder documentation](https://macsyfinder.readthedocs.io/en/latest/modeler_guide/index.html)
+For more details on how to create a package of data models for MacSyFinder, see [macsyfinder documentation](https://macsyfinder.readthedocs.io/en/latest/modeler_guide/index.html)
 
-If you already have package that you want to share with the MacSYFinder community ask for a repository by [openning a new issue](https://github.com/macsy-models/.github/issues/new?assignees=bneron%2C+saphia&labels=ask+for+new+repository&template=ask-for-new-repos.md&title=%5BNew+Repos%5D).
+If you already have a package that you want to share with the MacSyFinder community, ask for a new macsy-model repository by [openning a new issue](https://github.com/macsy-models/.github/issues/new?assignees=bneron%2C+saphia&labels=ask+for+new+repository&template=ask-for-new-repos.md&title=%5BNew+Repos%5D).
 
 
 <!--
