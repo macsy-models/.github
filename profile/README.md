@@ -3,7 +3,7 @@
 ## MacSy Models
 
 Is an umbrella organization to centralize, organize, share models for [MacSyFinder](https://github.com/gem-pasteur/macsyfinder).
-The models in macsy-models can easly managed using the macsydata tool.
+The models in macsy-models can be easily managed using the macsydata tool (shipped with macsyfinder).
 
 If you are a macsyfinder modeler, you are encouraged to share your models through macsy-models (see [Contribution guidelines](../CONTRIBUTING.md)). This will ensure an easy and broad distribution of your models for MacSyFinder! 
 
