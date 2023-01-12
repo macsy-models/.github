@@ -3,7 +3,7 @@
 Welcome! By visiting this page, 
 you've taken the first step toward becoming a contributor to macsy-models!
 
-*macsy-models* ss an umbrella organization to centralize, organize, share models for MacSyFinder. 
+*macsy-models* is an umbrella organization to centralize, organize, share models for MacSyFinder. 
 The models in *macsy-models* can be easily managed using the macsydata tool (shipped with macsyfinder).
 
 ## What skills do I need?
