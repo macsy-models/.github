@@ -5,7 +5,7 @@
 Is an umbrella organization to centralize, organize, share models for [MacSyFinder](https://github.com/gem-pasteur/macsyfinder).
 The models in macsy-models can be easily managed using the macsydata tool (shipped with macsyfinder).
 
-If you are a macsyfinder modeler, you are encouraged to share your models through macsy-models (see [Contribution guidelines](../CONTRIBUTING.md)). This will ensure an easy and broad distribution of your models for MacSyFinder! 
+If you are a macsyfinder modeler, you are encouraged to share your models through macsy-models (see [Contribution guidelines](https://github.com/macsy-models/.github/blob/main/CONTRIBUTING.md)). This will ensure an easy and broad distribution of your models for MacSyFinder! 
 
 For more details on how to create a package of data models for MacSyFinder, see [macsyfinder documentation](https://macsyfinder.readthedocs.io/en/latest/modeler_guide/index.html)
 
