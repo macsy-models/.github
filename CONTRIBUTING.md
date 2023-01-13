@@ -64,4 +64,8 @@ If you want to create a new model package that you want to share with the MacSyF
    tag it (for further details [read the modeller guide](https://macsyfinder.readthedocs.io/en/latest/modeler_guide/publish_package.html).
    Your package is now available to the community for searching and installing via the *macsydata* utility. 
 
-NB: the description of the tag will be by default the last message of your latest commit. You may thus want to make it meaningful. However of course, the list of the different tagged versions (with tag version numbers) can also be maintained with their desription on the README.md file of the repo. 
+> **Note:** 
+> the description of the tag will be by default the last message of your latest commit. 
+> You may thus want to make it meaningful. However of course, the list of the different 
+> tagged versions (with tag version numbers) can also be maintained with their desription 
+> on the README.md file of the repo. 
